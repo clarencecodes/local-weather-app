@@ -1,0 +1,43 @@
+html, body {
+    font-family: "Slabo 27px", serif;
+    text-align: center;
+    background-color: #bdbdbd;
+}
+  
+header {
+    background-color: #9cb6d6;
+    padding-top: 1.2em;
+    padding-bottom: 0.8em;
+}
+  
+footer {
+    font-size: 0.7em;
+    font-family: "Roboto", sans-serif;
+    padding: 2em 1em;
+}
+  
+#locationBg {
+    background-color: #f7e7bd;
+    padding-top: 1.2em;
+    padding-bottom: 0.8em;
+  }
+  
+#weatherIconBg {
+    background-color: #cec7c6;
+    padding: 0.8em;
+}
+  
+#descriptionBg {
+    background-color: #b59a73;
+    padding-top: 1.2em;
+    padding-bottom: 0.8em;
+}
+  
+#description {
+    text-transform: capitalize;
+}
+  
+#temperatureBg {
+    background-color: #94927b;
+    padding: 0.8em;
+}
